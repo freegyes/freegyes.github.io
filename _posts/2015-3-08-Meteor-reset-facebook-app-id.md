@@ -16,6 +16,7 @@ db.meteor_accounts_loginServiceConfiguration.update({_id:"xxx"},{$set:{"appId" :
 ````
 
 needed Meteor package:
+
 ````
 meteor add accounts-facebook
 ````
